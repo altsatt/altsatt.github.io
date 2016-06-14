@@ -9,7 +9,7 @@
         height: 230px;
         width: 280px;
         margin: 10px;
-        background-image: url(images/baseball.jpg);
+        background-image: url(images/zoo.jpg);
         border-radius: 10%;
         position: absolute;
         left: 0px;
@@ -35,20 +35,20 @@
     
     .frame1 div {
         height: 55px;
-        background-color: #26678f;
+        background-color: #92ad5b;
         margin-top: 145px;        
     }
     
     .frame1 img{
         margin-top: 12px;
-        margin-left: 40px;
+        margin-left: 20px;
     }
 
     .frame1b {
             height: 230px;
             width: 280px;
             margin: 10px;
-            background-image: url(images/baseball.jpg);
+            background-image: url(images/zoo.jpg);
             border-radius: 10%;
             position: absolute;
             left: 0px;
@@ -59,13 +59,13 @@
 
     .frame1b div {
         height: 55px;
-        background-color: #26678f;
-        margin-top: 145px;         
+        background-color: #92ad5b;
+        margin-top: 145px;        
     }
     
     .frame1b img{
         margin-top: 12px;
-        margin-left: 40px;
+        margin-left: 20px;
     }
 
     
@@ -74,7 +74,7 @@
         width: 280px;
         margin: 10px;
         border-radius: 10%;
-        background-color: #26678f;
+        background-color: #92ad5b;
         position: absolute;
         left: 0px;
         top: 0px;
@@ -99,8 +99,8 @@
     }
     
     .frame2 img{
-    margin-top: 50px;
-    margin-left: 50px;
+    margin-top: 80px;
+    margin-left: 38px;
     }
     
     .frame3 {
@@ -108,7 +108,7 @@
         width: 280px;
         margin: 10px;
         border-radius: 10%;
-        background-color: #26678f;
+        background-color: #92ad5b;
         position: absolute;
         left: 0px;
         top: 0px;
@@ -120,8 +120,7 @@
         -webkit-animation-direction: normal;
         -webkit-animation-iteration-count: 1;
         -webkit-animation-fill-mode: forwards;
-        -webkit-animation-play-state: running;
-        
+        -webkit-animation-play-state: running;        
         animation-name: trans3;
         animation-duration: 1s; 
         animation-timing-function: ease; 
